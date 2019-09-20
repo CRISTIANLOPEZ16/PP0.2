@@ -1,0 +1,49 @@
+{
+	"cartas":
+	[{
+		"Numero":"1",
+		"Carta":"as de diamantes",
+		"Cant":"0"
+	},
+	{
+		"Numero":"3",
+		"Carta":"tes de corazones",
+		"Cant":"0"
+	},
+	{
+		"Numero":"4",
+		"Carta":"cuatro de corazones",
+		"Cant":"0"
+	},
+	{
+		"Numero":"6",
+		"Carta":"seis de treboles",
+		"Cant":"0"
+	},
+	{
+		"Numero":"7",
+		"Carta":"siete de diamantes",
+		"Cant":"0"
+	},
+	{
+		"Numero":"9",
+		"Carta":"nueve de diamantes",
+		"Cant":"0"
+	},
+	{
+		"Numero":"10",
+		"Carta":"diez de corazones",
+		"Cant":"0"
+	},
+	{
+		"Numero":"11",
+		"Carta":"J de treboles",
+		"Cant":"0"
+	},
+	{
+		"Numero":"12",
+		"Carta":"Q de espeadas",
+		"Cant":"0"
+	}
+	]
+}
